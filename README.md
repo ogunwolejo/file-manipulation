@@ -3,10 +3,10 @@
 ## Following instructions to use the application (strict with instructions)
 
 ### to create a file you have to type the instrucctions below in the file/command.txt directory 
-#### create a file <path>
+##### create a file "<path>"
 
 ### to delete a file you have to type the instrucctions below in the file/command.txt directory 
-#### delete the file <path>
+##### delete the file "<path>"
 
 ### to rename a file you have to type the instrucctions below in the file
-#### rename the file <oldPath> to <newPath>
+##### rename the file "<oldPath>" to "<newPath>"
